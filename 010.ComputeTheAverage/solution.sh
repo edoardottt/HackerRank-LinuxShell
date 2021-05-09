@@ -8,5 +8,4 @@ do
        sum=$((sum + a))
 done
 
-
-printf "%.3f\n" `echo "$sum / $n" | bc -l`
+printf %.3f "$((sum / $n))"
