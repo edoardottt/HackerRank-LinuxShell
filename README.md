@@ -9,7 +9,4 @@
 If you liked it drop a 🌟
 -------
 
-[edoardoottavianelli.it](https://www.edoardoottavianelli.it) for contact me.
-
-
-                                                                               
+[edoardottt.com](https://edoardottt.com/) to contact me.
